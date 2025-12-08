@@ -19,4 +19,4 @@ Optional - RightClick > UI > Image, and set the transform as shown below. This p
 
 \
 \
-Now you're all set to fly around the scene and modify the SampleVolume with keybinds 1 , 2,  and 3 (alpha3), and see what you can tweak to fit into your project or inspire a new one.&#x20;
+Now you're all set to enter play mode and fly around the scene modifying the SampleVolume with keybinds 1 , 2,  and 3. See what you can tweak in this minimal setup, and consult the documentation for the full package capabilities.&#x20;
