@@ -1,8 +1,6 @@
 # Installation
 
-You can install the package a few ways.
+You can install the package by the following way(s)
 
-Through the Package Manager with Git URL.<br>
-
-(not available yet) Unity Asset Store&#x20;
+*
 
