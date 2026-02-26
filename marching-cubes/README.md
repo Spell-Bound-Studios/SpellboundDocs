@@ -2,12 +2,14 @@
 icon: cube
 ---
 
-# Marching Cubes
+# GeoForge
 
-Spellbound Marching Cubes is a powerful, performant, and flexible CPU implementation of the Marching Cubes and Trans-Voxel Level of Detail Algorithms for Unity.
+GeoForge is system for destructible and terraform-able 3D terrain and terrain-like structures.&#x20;
 
-{% content-ref url="getting-started/what-is-marching-cubes.md" %}
-[what-is-marching-cubes.md](getting-started/what-is-marching-cubes.md)
+It is powered by a performant multithreaded Burst-Compiled CPU implementation of the "Marching Cubes" and "Transvoxel" Levels of Detail algorithms.
+
+{% content-ref url="terminology/marching-cubes.md" %}
+[marching-cubes.md](terminology/marching-cubes.md)
 {% endcontent-ref %}
 
 {% content-ref url="features-and-capabilities/levels-of-detail.md" %}
