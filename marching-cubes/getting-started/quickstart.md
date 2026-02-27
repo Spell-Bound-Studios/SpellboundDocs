@@ -15,7 +15,7 @@ Import any one of Package's Samples, or if you would like to set up a brand new 
 5.  (OPTIONAL) RightClick Create > UI > Image, and set the transform as shown below. This places a simple square crosshair in the middle of your screen to visualize where digging and terraforming operations are aimed.&#x20;
 
     <figure><img src="../../.gitbook/assets/GF4.png" alt=""><figcaption></figcaption></figure>
-6.  Enter Play Mode and try digging and terraforming the terrain using keybinds alpha1 to dig, and alpha2 to deposit material. Dig tunnels, build columns, etc.
+6.  Enter Play Mode and try digging and terraforming the terrain using keybinds 1 to dig, and 2 to deposit material. Dig tunnels, build columns, etc.
 
     <figure><img src="../../.gitbook/assets/GF5.png" alt=""><figcaption></figcaption></figure>
 
