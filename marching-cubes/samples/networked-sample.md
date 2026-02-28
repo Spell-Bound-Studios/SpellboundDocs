@@ -19,7 +19,7 @@ It utilizes PurrNet, which is a free networking solution for unity. If you have 
 
     <figure><img src="../../.gitbook/assets/gf11.png" alt=""><figcaption></figcaption></figure>
 7. In the Package Manager, under Spellbound.GeoForge, navigate to the Samples tab, and import the Networked Sample.&#x20;
-8. Back in the LobbyManager enable "Handle Steam Init", disabled "Subscribe To On All Ready", and drag the Scene from the GeoForge Networked Sample into the "Next Scene" field.&#x20;
+8. Back in the LobbyManager enable "Handle Steam Init", disable "Subscribe To On All Ready", and drag the Scene from the GeoForge Networked Sample into the "Next Scene" field. ![](../../.gitbook/assets/gf12.png)
 9.  Click File > Build Profiles, and add the LobbyManager Scene to the Scene List.&#x20;
 
     <figure><img src="../../.gitbook/assets/gf15.png" alt=""><figcaption></figcaption></figure>
